@@ -1,0 +1,202 @@
+.content{
+    
+    text-align: center;
+    background-image: url('bg.jpg');
+    height: 1000px;
+    width: 100%;
+    position: relative;
+    color: aliceblue;
+    
+    
+}
+
+.logo{
+
+    text-align: left;
+    
+
+}
+
+body{
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.bhuv{
+    margin: 0;
+    padding-top: 20px;
+    padding-right: 50px;
+}
+
+.love{
+    text-align: center;
+}
+
+.sizee{
+    font-size: 20px;
+    font-style: italic;
+    color: aliceblue;
+    justify-content:end;
+    position: relative;
+    height: 200px;
+    
+}
+
+.nature{
+    font-size: 30px;
+}
+
+.deep{
+    color: aliceblue;
+}
+
+
+.get{
+    background-color: yellow;
+    border-radius: 10px;
+    height: 15%;
+    width: 10%;
+    padding: 10px;
+    
+}
+
+.our{
+    text-align: center;
+    font-size: 25px;
+
+}
+
+
+.container {
+    display: flex;
+}
+
+.column {
+    flex: 4;
+    padding: 10px;
+    box-sizing: border-box;
+    margin: 10px;
+}
+
+.web{
+    text-align: center;
+    font-size: larger;
+}
+
+.vector{
+    text-align: center;
+    padding-top: 15%;
+    height: 100px;
+    width: 100%;
+    
+    
+    
+}
+
+.jane{
+    background-color: rgb(212, 212, 201);
+    background-size: cover ;
+}
+
+.janetheory{
+    text-align: center;
+
+}
+
+.avatar{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.us{
+    margin-left: 5%;
+}
+
+
+.container1 {
+    display: flex;
+}
+.column {
+    flex: 50%;
+    padding: 10px;
+}
+
+.tell{
+    font-size: 50px;
+    margin-left: 5%;
+    color: rgb(147, 184, 143);
+    
+    
+}
+
+.because{
+    font-size: 15px;
+    
+}
+
+
+.btn{
+    padding: 10px;
+    text-align: right;
+    height: 10%;
+    
+    
+}
+
+.foot{
+
+    
+   
+    background-image: url('footer.jpg');
+    height: 80vh;
+    width: 100%;
+    object-fit:fill;
+}
+
+.question{
+    text-align: center;
+    padding: 10%;
+    color: rgb(49, 92, 6);
+}
+
+.whet{
+    
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+
+.let{
+   text-align: right;
+}
+
+
+.last {
+    display: flex;
+    justify-content: center;
+    
+   
+
+}
+
+ .love{
+    
+
+    
+}
+love1{
+    text-align: right;
+}
+
+.llogo{
+     
+
+
+}
+
+
+.text{
+
+     
+} 
